@@ -23,7 +23,14 @@
  
  */
 // Answer question 3 below
-
+var spendingMoney : Double = 0
+spendingMoney += 50
+spendingMoney -= (50/3)
+spendingMoney += 10
+spendingMoney -= 10
+spendingMoney -= 5.50
+spendingMoney *= 2
+print(spendingMoney)
 /*:
  ## Now share your understanding
  
