@@ -24,6 +24,16 @@
  
  */
 // Answer question 2 below
+let bookName = "Harry Potter"
+print(bookName, " book's name is not changing")
+var copiesSold = 2000000
+print(copiesSold, "the amount may vary")
+let authorName = "J.K. Rowling "
+print(authorName, "as only one author wrote the book")
+var sellingPrice = 30
+print(sellingPrice ,"may vary for different aspects like demand, costs, country's economy etc")
+let yearPublished = 1997
+print(yearPublished, " does not change")
 
 /*:
  ## Now share your understanding
