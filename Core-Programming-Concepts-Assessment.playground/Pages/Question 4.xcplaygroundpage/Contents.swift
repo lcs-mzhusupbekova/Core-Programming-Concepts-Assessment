@@ -23,7 +23,14 @@
  
  */
 // Answer question 4 below
-
+var apps : Int = 12
+print(apps, "full numbers are required")
+var hours : Double = 6.5
+print(hours, "as parts of an hour are included")
+var mostPopularApps : String = "Instagram , Camera"
+print(mostPopularApps, "can write a sentence")
+var date : String = "Friday, January 26, 2018"
+print(date, "can write a sentence")
 /*:
  ## Now share your understanding
  
